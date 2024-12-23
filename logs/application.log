@@ -1,0 +1,247 @@
+2024-12-18 21:50:30 INFO  BaseTest:34 - Base URL:https://api.staging.com 
+2024-12-18 21:54:38 DEBUG BaseTest:32 - Enabled debug mode.
+2024-12-18 21:54:38 INFO  BaseTest:39 - Base URL: https://api.staging.com 
+2024-12-18 21:54:38 DEBUG BaseTest:46 - Testing base test...
+2024-12-18 21:54:38 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-18 21:56:06 INFO  BaseTest:34 - Base URL:https://api.staging.com 
+2024-12-18 21:57:09 DEBUG BaseTest:30 - Enable debug mode
+2024-12-18 21:57:09 INFO  BaseTest:34 - Base URL:https://api.staging.com 
+2024-12-18 21:57:09 DEBUG BaseTest:41 - Testing base test...
+2024-12-18 21:57:09 DEBUG BaseTest:41 - Testing for base URL is successful.
+2024-12-19 17:43:58 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:43:58 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:43:58 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:43:58 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:47:28 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:47:28 INFO  BaseTest:38 - Base URL: 
+2024-12-19 17:47:28 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:47:28 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:48:29 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:48:29 INFO  BaseTest:38 - Base URL:null 
+2024-12-19 17:48:29 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:50:08 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:50:08 INFO  BaseTest:49 - Testing base test...
+2024-12-19 17:50:08 INFO  BaseTest:49 - Testing for base URL is successful.
+2024-12-19 17:53:17 INFO  BaseTest:49 - Testing base test...
+2024-12-19 17:53:17 INFO  BaseTest:49 - Testing for base URL is successful.
+2024-12-19 17:53:34 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:53:34 DEBUG BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:53:34 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:53:34 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:53:49 INFO  BaseTest:49 - Testing base test...
+2024-12-19 17:53:49 INFO  BaseTest:49 - Testing for base URL is successful.
+2024-12-19 17:54:51 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:54:51 INFO  BaseTest:49 - Testing base test...
+2024-12-19 17:54:51 INFO  BaseTest:49 - Testing for base URL is successful.
+2024-12-19 17:55:03 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:55:03 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:55:03 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:55:03 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:55:36 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:55:36 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:55:36 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:55:36 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:55:59 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:55:59 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:55:59 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:55:59 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:56:40 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:56:40 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:56:40 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:56:40 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:58:24 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:58:24 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 17:58:24 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:58:24 DEBUG BaseTest:46 - Testing for base URL is successful.
+2024-12-19 17:58:40 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:58:40 INFO  BaseTest:38 - Base URL:null 
+2024-12-19 17:58:40 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 17:59:08 INFO  BaseTest:38 - Base URL:null 
+2024-12-19 17:59:08 INFO  BaseTest:49 - Testing base test...
+2024-12-19 17:59:56 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 17:59:56 INFO  BaseTest:38 - Base URL:null 
+2024-12-19 17:59:56 DEBUG BaseTest:46 - Testing base test...
+2024-12-19 19:41:41 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:41:41 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:41:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:41:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:41:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:41:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:41:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:41:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:41:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:41:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:41:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:41:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:41:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:41:43 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:44:05 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:44:05 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:44:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:44:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:44:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:44:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:44:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:44:05 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:44:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:44:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:44:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:44:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:44:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:44:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:46:10 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:46:10 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:46:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:46:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:46:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:46:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:46:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:46:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:46:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:46:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:46:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:46:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:46:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:46:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:54:36 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:54:36 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:54:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:54:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:54:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:54:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:54:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:54:36 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:54:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:54:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:54:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:54:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:54:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:54:37 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:54:54 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:54:54 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:54:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:54:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:54:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:54:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:54:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:54:54 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:54:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:54:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:54:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:54:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:54:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:54:55 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:56:10 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:56:10 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:56:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:56:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:56:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:56:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:56:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:56:11 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:56:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:56:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:56:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:56:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:56:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:56:11 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:56:25 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:56:25 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:56:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:56:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:56:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:56:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:56:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:56:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:56:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:56:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:56:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:56:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:56:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:56:26 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:57:39 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 19:57:39 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 19:57:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 19:57:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 19:57:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 19:57:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 19:57:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 19:57:39 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 19:57:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:57:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:57:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 19:57:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:57:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 19:57:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:01:40 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 20:01:40 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 20:01:40 DEBUG BaseTest:46 - Creating an instance of List of String...
+2024-12-19 20:01:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 20:01:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 20:01:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 20:01:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 20:01:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 20:01:40 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 20:01:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:01:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:01:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:01:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:01:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:01:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:01:41 DEBUG BaseTest:46 - List is initialized to an arrayList
+2024-12-19 20:01:41 DEBUG BaseTest:46 - List is not null.All good
+2024-12-19 20:01:41 DEBUG BaseTest:46 - Excel file does have 4 row.All good
+2024-12-19 20:02:04 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 20:02:04 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 20:02:04 DEBUG BaseTest:46 - Creating an instance of List of String...
+2024-12-19 20:02:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 20:02:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 20:02:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 20:02:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 20:02:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 20:02:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 20:02:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:02:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:02:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:02:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:02:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:02:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:02:05 DEBUG BaseTest:46 - List is initialized to an arrayList
+2024-12-19 20:02:05 DEBUG BaseTest:46 - List is not null.All good
+2024-12-19 20:04:48 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 20:04:48 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 20:04:48 DEBUG BaseTest:46 - Creating an instance of List of String...
+2024-12-19 20:04:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 20:04:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 20:04:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 20:04:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 20:04:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 20:04:49 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 20:04:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:04:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:04:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:04:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:04:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:04:49 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:04:50 DEBUG BaseTest:46 - List is initialized to an arrayList
+2024-12-19 20:04:50 DEBUG BaseTest:46 - List is not null.All good
+2024-12-19 20:06:51 DEBUG BaseTest:32 - Enable debug mode
+2024-12-19 20:06:51 INFO  BaseTest:38 - Base URL:https://api.staging.com 
+2024-12-19 20:06:51 DEBUG BaseTest:46 - Creating an instance of List of String...
+2024-12-19 20:06:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item1.xml.rels
+2024-12-19 20:06:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item2.xml.rels
+2024-12-19 20:06:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /customXml/_rels/item3.xml.rels
+2024-12-19 20:06:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-12-19 20:06:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-12-19 20:06:51 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-12-19 20:06:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:06:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:06:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml
+2024-12-19 20:06:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:06:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:06:52 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXmlProps
+2024-12-19 20:06:52 DEBUG BaseTest:46 - List is initialized to an arrayList
+2024-12-19 20:06:52 DEBUG BaseTest:46 - List is not null.All good
+2024-12-19 20:06:52 DEBUG BaseTest:46 - Excel file does have 4 row.All good
+2024-12-19 20:06:52 DEBUG BaseTest:46 - First cell header should is ID
+2024-12-19 20:06:52 DEBUG BaseTest:46 - Second row have John Doe name

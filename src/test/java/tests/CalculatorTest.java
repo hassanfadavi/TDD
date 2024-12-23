@@ -8,29 +8,50 @@ public class CalculatorTest {
 
     @Test
     public void testAdition(){
-        Calculators calculators=new Calculators();
-       Assertions.assertEquals(8,calculators.sum(5,3),"not match");
+
+       Assertions.assertEquals(8,Calculators.sum(5,3),"not match");
 
     }
 
     @Test
-    public void  testAdditionWithThreeNumber(){
-        Calculators calculators=new Calculators();
-        Assertions.assertEquals(10,calculators.sum(5,3,2),"not match");
+    public   void  testAdditionWithThreeNumber(){
+
+        Assertions.assertEquals(10,Calculators.sum(5,3,2),"not match");
 
     }
 
     @Test
     public void testMultipilication(){
-        Calculators calculators=new Calculators();
-        Assertions.assertEquals(8,calculators.multiply(2,3),"not match");
+
+        Assertions.assertEquals(8,Calculators.multiply(2,3),     "Expected output and current result does not match.");
 
     }
 
     @Test
     public void testMultipilicationWithThree(){
-        Calculators calculators=new Calculators();
-        Assertions.assertEquals(24,calculators.multiply(2,3,4),"not match");
+
+        Assertions.assertEquals(24,Calculators.multiply(2,3,4),     "Expected output and current result does not match.");
+
+    }
+
+    @Test
+    public void testSubtraction(){
+
+        Assertions.assertEquals(0,Calculators.subtract(2,3),     "Expected output and current result does not match.");
+
+    }
+
+    @Test
+    public void testSubtractionWithThreeNumbers(){
+
+        Assertions.assertEquals(0,Calculators.subtract(2,3,6),     "Expected output and current result does not match.");
+
+    }
+
+    @Test
+    public void division(){
+
+        Assertions.assertEquals(5,Calculators.division(4,0));
 
     }
 
